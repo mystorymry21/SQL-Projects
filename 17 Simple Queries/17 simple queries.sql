@@ -86,7 +86,7 @@ VALUES
 SELECT * FROM population;
 
 /*
-7. Change the name of population with world_population_percentage = 4.24 to 'America'
+7. Change the name of population with world_population_percentage = 4.24 to 'North America'
 */
 UPDATE population
 SET continent = 'North America'
